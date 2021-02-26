@@ -1,0 +1,3 @@
+C:/Users/doram/Desktop/Kurzusok-hazik-sapi/II. FELEV/ALG ES ADATSZERK I LABOR Feladatok/Labor1-Projekt1B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/doram/Desktop/Kurzusok-hazik-sapi/II. FELEV/ALG ES ADATSZERK I LABOR Feladatok/Labor1-Projekt1B/cmake-build-debug/CMakeFiles/Labor1_Projekt1B.dir
+C:/Users/doram/Desktop/Kurzusok-hazik-sapi/II. FELEV/ALG ES ADATSZERK I LABOR Feladatok/Labor1-Projekt1B/cmake-build-debug/CMakeFiles/edit_cache.dir
